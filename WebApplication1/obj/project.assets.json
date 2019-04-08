@@ -12167,11 +12167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Krishnamoorthy\\Documents\\MyTry\\Azure+Docker+CICD\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Krishnamoorthy\\Documents\\MyTry\\GitAzure\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Krishnamoorthy\\Documents\\MyTry\\Azure+Docker+CICD\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\Krishnamoorthy\\Documents\\MyTry\\GitAzure\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Krishnamoorthy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Krishnamoorthy\\Documents\\MyTry\\Azure+Docker+CICD\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Krishnamoorthy\\Documents\\MyTry\\GitAzure\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
